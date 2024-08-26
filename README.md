@@ -12,11 +12,11 @@
 1. Step 1: Download the project
 
 2. Step 2: Initialize the project in both the folders in separate terminal's
-  - my-app - `npm install`
-  - server - `npm install`
+    - my-app - `npm install`
+    - server - `npm install`
 
 3. Step 3: Initialize the project in both the folders in separate terminal's
-  - my-app - `npm start`
-  - server - `npm start`
+    - my-app - `npm start`
+    - server - `npm start`
 
 4. Step 4: Open 2 different browser's and run localhost:3000/ - Project will start running
